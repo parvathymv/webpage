@@ -1,1 +1,1 @@
-this is a sample file to commit in central repo
+new file in branch2
